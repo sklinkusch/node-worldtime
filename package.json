@@ -1,0 +1,25 @@
+{
+  "name": "worldtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sklinkusch/node-worldtime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sklinkusch/node-worldtime/issues"
+  },
+  "homepage": "https://github.com/sklinkusch/node-worldtime#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
